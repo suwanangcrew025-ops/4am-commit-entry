@@ -1,0 +1,1 @@
+4am: fixed the bug I wrote at 2am fixing the bug I wrote at midnight fixing yesterday's fix. Tests pass. I trust neither the tests, the fix, nor myself anymore. Merging before I change my mind.
